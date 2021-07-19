@@ -10,7 +10,7 @@
 <p align="left">
  <strong>1</strong> - Install Node.js: 
   <a href="https://nodejs.org/en/download/">  
-   <img src="/static/images/logo.svg" alt="Node.js" width="122" height="75"></img>
+   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="122" height="75"></img>
   </a> 
 </strong>
 </p>

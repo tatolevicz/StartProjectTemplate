@@ -8,30 +8,27 @@
 </p>
 
 <p align="left">
- <strong>1</strong> - Install Node.js: 
-  <a href="https://nodejs.org/en/download/">  
-   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="122" height="75"></img>
-  </a> 
-</strong>
+ <strong>1</strong> - Install <a href="https://nodejs.org/en/download/"> Node.js </a> </strong>
 </p>
+
  <p align="left">
- <strong>2</strong> - Clone this project and run <strong>'npm install' </strong>
+ <strong>2</strong> - Clone this project and run <strong>'npm install' in your terminal </strong>
 </p>
 
  <p align="left">
  <strong>3</strong> - Now just run <strong>'npm run build & npm run serve' </strong>
- Look the localhost printed in your terminal and open it to see a bunny spinning in the browser
+ <br>Look at the localhost address printed in your terminal and open it to see a bunny spinning in the browser
 </p>
-                
+<br><br>             
 <p align="left">
- Let me know if i missed something and send me a message!
+ Let me know if I missed something sending me a message!
 </p>
                
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leviczios@gmail.com" /></a>
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tatolevicz"/></a>
+  <a href="mailto:leviczios@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tatolevicz" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>  
                 
 

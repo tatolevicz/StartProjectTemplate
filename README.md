@@ -8,17 +8,14 @@
 </p>
 
 <p align="left">
- <strong>1</strong> - Install Node.js: <a href="https://nodejs.org/en/download/">  
- <img id="logoNode" src="https://nodejs.org/static/images/logo.svg" alt="Node-img"> </img></a> </strong>
+ <strong>1</strong> - Install Node.js: 
+  <a href="https://nodejs.org/en/download/">  
+    <div style="max-height:450px; max-width:450px; overflow: hidden">
+      <img id="logoNode" src="https://nodejs.org/static/images/logo.svg" alt="Node-img"> </img>
+    </div>
+  </a> 
+</strong>
 </p>
-
-<style>
- #logoNode{
-    max-width:50px;
-    max-height:80px;
-}
- </style>
-
  <p align="left">
  <strong>2</strong> - Clone this project and run <strong>'npm install' </strong>
 </p>

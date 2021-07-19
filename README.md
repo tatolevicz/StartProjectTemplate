@@ -12,12 +12,13 @@
 </p>
 
  <p align="left">
- <strong>2</strong> - Clone this project and run <strong>'npm install' in your terminal </strong>
+ <strong>2</strong> - Clone this project and run <strong>'npm install' </strong> in your terminal
 </p>
 
  <p align="left">
  <strong>3</strong> - Now just run <strong>'npm run build & npm run serve' </strong>
- <br>Look at the localhost address printed in your terminal and open it to see a bunny spinning in the browser
+ <br><br>
+ Look at the localhost address printed in your terminal and open it to see a bunny spinning in the browser!
 </p>
 <br><br>             
 <p align="left">

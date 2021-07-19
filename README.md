@@ -8,7 +8,8 @@
 </p>
 
 <p align="left">
- <strong>1</strong> - Install Node.js: <a href="https://nodejs.org/en/download/" alt="Node"> </a> </strong>
+ <strong>1</strong> - Install Node.js: <a href="https://nodejs.org/en/download/">  
+ <img src="https://nodejs.org/static/images/logo.svg" alt="Node-img"> </img></a> </strong>
 </p>
 
  <p align="left">

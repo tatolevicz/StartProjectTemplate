@@ -10,9 +10,7 @@
 <p align="left">
  <strong>1</strong> - Install Node.js: 
   <a href="https://nodejs.org/en/download/">  
-    <div style="max-height:100px; max-width:100px>
-      <img src="https://nodejs.org/static/images/logo.svg" alt="Node-img"> </img>
-    </div>
+   <img src="/static/images/logo.svg" alt="Node.js" width="122" height="75"></img>
   </a> 
 </strong>
 </p>
